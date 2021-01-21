@@ -1,0 +1,5 @@
+﻿  소스3.c
+C:\Users\ms113\source\repos\Project5\Project5\소스3.c(161,9): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\ms113\source\repos\Project5\Project5\소스3.c(164,29): warning C4133: '함수': 'int [50]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ms113\source\repos\Project5\Project5\소스3.c(164,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project5.vcxproj -> C:\Users\ms113\source\repos\Project5\Debug\Project5.exe

@@ -1,0 +1,3 @@
+﻿  pyj03.c
+C:\Users\ms113\source\repos\pyj2.c\pyj2.c\pyj03.c(2223,6): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+  pyj2.c.vcxproj -> C:\Users\ms113\source\repos\pyj2.c\Debug\pyj2.c.exe
